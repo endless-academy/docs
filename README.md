@@ -1,3 +1,5 @@
 # Endless Academy
 
-This repository has documentation and Q&A for [Endless Academy](https://www.endless.academy).
+This repository has discussions and documentation (coming soon) for [Endless Academy](https://www.endless.academy).
+
+- [Discussion board](https://github.com/endless-academy/docs/discussions)
